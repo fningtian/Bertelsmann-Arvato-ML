@@ -3,7 +3,7 @@
 ## Machine Learning Engineer Udacity Nanodegree - Capstone Project
 This GitHub repository hosts the code and report for "Capstone project - Arvato Customer Segmentation" that I developed and completed as part of Udacity Machine Learning Engineer Nanodegree program. 
 
-In this project, I have employed the use of supervised and unsupervised machine learning algorithms to deal with deal with real-life data provided by Bertelsmann Arvato Analytics. More specifically, I have worked on 4 demographics datasets and 2 metadata files provided by Arvato Financial Services with the goal of helping a client mailorder company target next probable customers. 
+In this project, I have employed the use of supervised and unsupervised machine learning algorithms to deal with real-life data provided by Bertelsmann Arvato Analytics. More specifically, I have worked on 4 demographics datasets and 2 metadata files provided by Arvato Financial Services with the goal of helping a client mailorder company target next probable customers. 
 
 
 ## Tables of Contents
