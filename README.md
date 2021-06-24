@@ -21,6 +21,7 @@ Demographics Data:
 Customer Segmentation
 * General Population demographics
 * Customer demographics
+
 Customer Acquisition
 * Training data
 * Test data
@@ -61,6 +62,8 @@ The syllabus of this Machine Learning Nanodegree Program is [here](https://www.u
 
 ## Author
 Funing Tian
+
 Contact: [here](www.linkedin.com/in/funingtian)
+
 Email: tian.570@osu.edu
 
